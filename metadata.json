@@ -1,0 +1,5 @@
+{
+  "name": "TravelGenie AI",
+  "description": "An intelligent, conversational travel planning assistant. It generates complete itineraries, compares transport options (like Rome2Rio/Omio), suggests accommodations, and optimizes routes using Gemini 2.5/3 models with Google Search and Maps grounding.",
+  "requestFramePermissions": []
+}
